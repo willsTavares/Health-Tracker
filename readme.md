@@ -1,6 +1,6 @@
 
 <h1>Health Tracker interface utilizando Bootstrap</h1>
-
+<img src="assets/logo.svg">
 <h2>Lista de comandos necessário para inicializar repositório: </h2>
 
 <ul>
