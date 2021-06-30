@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@500&display=swap');
+
+body {
+	font-family: 'Inter', sans-serif;
+}
+
+.banner {
+	max-height: 30rem;
+	min-height: 10rem;
+}
+
+.title {
+	font-size: 48px;
+	color: #bf1f3c;
+}
+
+.text {
+	font-size: 20px;
+}
+
+.grow {
+	transition: all .3s ease-in-out;
+}
+.grow:hover {
+	transform: scale(1.05);
+}
